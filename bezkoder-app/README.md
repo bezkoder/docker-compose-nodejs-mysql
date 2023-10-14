@@ -28,6 +28,14 @@ Fullstack:
 
 > [Angular 12 + Node.js Express + MySQL example](https://bezkoder.com/angular-12-node-js-express-mysql/)
 
+> [Angular 13 + Node.js + Express + MySQL example](https://www.bezkoder.com/angular-13-node-js-express-mysql/)
+
+> [Angular 14 + Node.js + Express + MySQL example](https://www.bezkoder.com/angular-14-node-js-express-mysql/)
+
+> [Angular 15 + Node.js + Express + MySQL example](https://www.bezkoder.com/angular-15-node-js-express-mysql/)
+
+> [Angular 16 + Node.js + Express + MySQL example](https://www.bezkoder.com/angular-16-node-js-express-mysql/)
+
 > [React + Node.js + Express + MySQL example](https://bezkoder.com/react-node-express-mysql/)
 
 Integration (run back-end & front-end on same server/port)
